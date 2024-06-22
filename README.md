@@ -6,7 +6,7 @@ Welcome to my project for the Computational Models course.
 
 ## Contents
 
-- [Programming Assignment 1: Deterministic Finite Automaton in Java](path/to/assignment1)
+- [Programming Assignment 1: Deterministic Finite Automaton in Java]([path/to/assignment1](https://github.com/Desta101/Computational-Models/tree/main/HW01))
 
 ## Project Details
 
